@@ -771,12 +771,6 @@ cd bin2sc
 python3 bin2sc.py
 ```
 
-or
-```bash
-curl -O https://raw.githubusercontent.com/0xNullll/bin2sc/main/bin2sc.py
-python3 bin2sc.py
-```
-
 ---
 
 ## License
